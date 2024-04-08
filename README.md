@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/SNbjV71z/original.jpg" alt="SMK ADV AUTO FILTER BOT Logo">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/TheMovieProviderBot">SMK ADV AUTO FILTER BOT</a>
+  <a href="https://telegram.me/MADARA_MOVIES_SMK_BOT">SMK ADV AUTO FILTER BOT</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
