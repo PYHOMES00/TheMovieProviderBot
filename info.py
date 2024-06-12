@@ -122,9 +122,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://smk-movie-bot-1.onrender.com/".format(FQDN)
+    URL = "https://themovieproviderbot-c69b.onrender.com/".format(FQDN)
 else:
-    URL = "https://smk-movie-bot-1.onrender.com/".format(FQDN)
+    URL = "https://themovieproviderbot-c69b.onrender.com/".format(FQDN)
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002000189850'))
